@@ -18,13 +18,6 @@ taskForm.addEventListener('submit', (e) => {
 
   tasksList.append(taskListEl)
 
-
-  // const buttonDelete = document.querySelector('#btn-delete')
-  // buttonDelete.addEventListener('click', () => {
-  //       console.log(taskListEl)
-  //       taskListEl.remove()
-  //     })
-
   })
 
 })
